@@ -18,8 +18,6 @@ Adobe Illustrator | Adobe XD |
 Unity Engine | Packet Tracer | Autodesk Maya | VM Virtual Box |
 VMWare | Office 365
 
-<br />
-
 ---
 
 ### Contact Me:
