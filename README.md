@@ -30,4 +30,3 @@ VMWare | Office 365
 [website]: https://www.dmunoz.dev/
 [linkedin]: https://www.linkedin.com/in/diego-mu%C3%B1oz-herranz-b03a42182/
 [email]: mailto:diego171200@gmail.com
-# diego-tech
