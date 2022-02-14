@@ -22,7 +22,7 @@ VMWare | Office 365
 
 ### Contact Me:
 
-[<img align="left" alt="logoLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="logoLinkedin | LinkedIn" color="white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="logoEmail | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 [website]: https://www.dmunoz.dev/
